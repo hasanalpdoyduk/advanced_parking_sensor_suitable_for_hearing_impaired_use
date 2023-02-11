@@ -9,15 +9,26 @@ As this is a prototype, the ultrasonic sensor has to be manually attached to the
 In the next version, I intend to build a wireless connection between the ultrasonic sensor and the microprocessor.
 
 <img src="https://github.com/hasanalpdoyduk/advanced_parking_sensor_suitable_for_hearing_impaired_use/blob/main/advanced_parking_sensor/aps_mainpart_photo.png" width="480" height="360" align="left" >
-<img src="https://github.com/hasanalpdoyduk/advanced_parking_sensor_suitable_for_hearing_impaired_use/blob/main/advanced_parking_sensor/aps_externalpart_photo.png" width="480" height="360" align="right" >
+<img src="https://github.com/hasanalpdoyduk/advanced_parking_sensor_suitable_for_hearing_impaired_use/blob/main/advanced_parking_sensor/aps_externalpart_photo.png" width="480" height="360" align="center" >
 
 ## Parts Required
-- <a href="https://www.adafruit.com/product/982" target="_blank">1x Maxbotix Ultrasonic Rangefinder - LV-EZ4</a>
-- <a href="https://store.arduino.cc/usa/arduino-nano" target="_blank">1x Arduino Nano</a>
-- <a href="https://www.seeedstudio.com/Lipo-Rider-v1-3-p-2403.html" target="_blank">1x Lipo Rider 1.3</a>
-- <a href="https://www.e-switch.com/product-catalog/rocker/product-lines/ra8-series-power-rocker-switch#.XOM_lcgzaUk" target="_blank">Rocker Switch</a>
-- <a href="https://www.adafruit.com/product/258" target="_blank">LiPo Battery</a>
-- 2mm screws
-- Jumper Cables 
-- Heat Shrinking Tube
-- A pair of generic safety glasses
+
+- Arduino UNO & USB A to B
+- HC-SR04 ultrasonic sensor
+- 2x16 LCD screen
+- Buzzer
+- Led
+- 330 ohm resistor x3
+- Switch
+- Potantiometer
+- Jumper cables
+
+## Design the Circuit
+
+Components should be connected according to the pictures below. The ultrasonic sensor should be placed in a box so that it is not affected by various weather conditions and can be attached on the car. The parts of Arduino and components other than the switch button, led and LCD screen should be placed in a box.
+
+<img src="https://github.com/hasanalpdoyduk/advanced_parking_sensor_suitable_for_hearing_impaired_use/blob/main/advanced_parking_sensor/aps_mainpart_photo.png" width="480" height="360" align="left" >
+
+
+
+
