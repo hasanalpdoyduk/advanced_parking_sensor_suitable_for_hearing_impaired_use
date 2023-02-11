@@ -32,5 +32,6 @@ Components should be connected according to the pictures below. The ultrasonic s
 
 ## Usage
 
-The device must be plugged into the vehicle's 5V powerpoint. It can also be used with an external battery.
+The device must be plugged into the vehicle's 5V powerpoint. It can also be used with an external battery. By changing the red number below in the C++ code, the signal frequency can be calibrated according to the distance.
 
+<img src="https://github.com/hasanalpdoyduk/advanced_parking_sensor_suitable_for_hearing_impaired_use/blob/main/advanced_parking_sensor/aps_calibration.png" width="400" height="400" align="left" >
