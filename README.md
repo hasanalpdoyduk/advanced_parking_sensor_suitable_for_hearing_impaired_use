@@ -8,6 +8,4 @@ As this is a prototype, the ultrasonic sensor has to be manually attached to the
 
 In the next version, I intend to build a wireless connection between the ultrasonic sensor and the microprocessor.
 
-<img src="https://github.com/hasanalpdoyduk/advanced_parking_sensor/blob/master/ultrasonic_glasses_photo.jpg" title="Ultrasonic Glasses" alt="Ultrasonic Glasses" width="500">
-
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://github.com/hasanalpdoyduk/advanced_parking_sensor_suitable_for_hearing_impaired_use/blob/main/advanced_parking_sensor/aps_mainpart_photo.png" width="600" height="450" />
