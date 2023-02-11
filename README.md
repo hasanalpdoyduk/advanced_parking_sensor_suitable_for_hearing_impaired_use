@@ -8,7 +8,7 @@ As this is a prototype, the ultrasonic sensor has to be manually attached to the
 
 In the next version, I intend to build a wireless connection between the ultrasonic sensor and the microprocessor.
 
-<img src="https://github.com/hasanalpdoyduk/advanced_parking_sensor_suitable_for_hearing_impaired_use/blob/main/advanced_parking_sensor/aps_mainpart_photo.png" width="480" height="360" align="left" >
+<img src="https://github.com/hasanalpdoyduk/advanced_parking_sensor_suitable_for_hearing_impaired_use/blob/main/Documentation/aps_mainpart_photo.png" width="480" height="360" align="left" >
 <img src="https://github.com/hasanalpdoyduk/advanced_parking_sensor_suitable_for_hearing_impaired_use/blob/main/advanced_parking_sensor/aps_externalpart_photo.png" width="480" height="360" align="center" >
 
 ## Parts Required
