@@ -27,8 +27,10 @@ In the next version, I intend to build a wireless connection between the ultraso
 
 Components should be connected according to the pictures below. The ultrasonic sensor should be placed in a box so that it is not affected by various weather conditions and can be attached on the car. The parts of Arduino and components other than the switch button, led and LCD screen should be placed in a box.
 
-<img src="https://github.com/hasanalpdoyduk/advanced_parking_sensor_suitable_for_hearing_impaired_use/blob/main/advanced_parking_sensor/aps_mainpart_photo.png" width="480" height="360" align="left" >
+![](https://github.com/hasanalpdoyduk/advanced_parking_sensor_suitable_for_hearing_impaired_use/blob/main/advanced_parking_sensor/advanced_parking_sensor_circuit.png)
+![](https://github.com/hasanalpdoyduk/advanced_parking_sensor_suitable_for_hearing_impaired_use/blob/main/advanced_parking_sensor/advanced_parking_sensor_circuit2.png)
 
+## Usage
 
-
+The device must be plugged into the vehicle's 5V powerpoint. It can also be used with an external battery.
 
